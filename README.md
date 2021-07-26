@@ -1,8 +1,4 @@
-<div align="center">
-
 # Tips and Tricks
-
-</div>
 
 ## Miscellaneous
 
